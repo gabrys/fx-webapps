@@ -1,10 +1,10 @@
 {
   "name": "Slack for Wikia",
   "description": "A wrapper around wikia.slack.com",
-  "launch_path": "/slack-wikia/v1.html",
+  "launch_path": "/fx-webapps/slack-wikia/v1.html",
   "icons": {
-    "512": "/slack-wikia/512.png",
-    "128": "/slack-wikia/128.png"
+    "512": "/fx-webapps/slack-wikia/512.png",
+    "128": "/fx-webapps/slack-wikia/128.png"
   },
   "developer": {
     "name": "Piotr Gabryjeluk",

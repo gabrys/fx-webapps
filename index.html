@@ -1,0 +1,9 @@
+<html>
+<script>
+function install(app) {
+  var url = 'http://gabrys.github.io/fx-webapps/' + app + '/manifest.webapp';
+  navigator.mozApps.install(url);
+}
+</script>
+<button onclick="install('slack-wikia')">Install Slack Wikia</button>
+</html>

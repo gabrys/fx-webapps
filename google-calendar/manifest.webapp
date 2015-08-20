@@ -1,0 +1,13 @@
+{
+  "name": "Google Calendar",
+  "description": "A wrapper around google.com/calendar",
+  "launch_path": "/fx-webapps/google-calendar/v1.html",
+  "icons": {
+    "512": "/fx-webapps/google-calendar/512.png",
+    "128": "/fx-webapps/google-calendar/128.png"
+  },
+  "developer": {
+    "name": "Piotr Gabryjeluk",
+    "url": "http://piotr.gabryjeluk.pl/"
+  }
+}

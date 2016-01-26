@@ -1,0 +1,13 @@
+{
+  "name": "Splitwise",
+  "description": "A wrapper around splitwise.com",
+  "launch_path": "/fx-webapps/splitwise/v1.html",
+  "icons": {
+    "512": "/fx-webapps/splitwise/512.png",
+    "128": "/fx-webapps/splitwise/128.png"
+  },
+  "developer": {
+    "name": "Piotr Gabryjeluk",
+    "url": "http://piotr.gabryjeluk.pl/"
+  }
+}
